@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/bf9c5fb1-e265-430f-b3af-719d99c53fe6)
+
+
 Project: Efficiency and Performance Enhancements
 
 Overview
